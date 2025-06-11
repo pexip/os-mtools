@@ -1,3 +1,9 @@
+mtools (4.0.33-1+really4.0.32-1+pexip24u1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- Steve McIntyre <steve.mcintyre@pexip.com>  Wed, 11 Jun 2025 15:59:51 +0100
+
 mtools (4.0.33-1+really4.0.32-1) unstable; urgency=medium
 
   * Revert to version 4.0.32-1 due to regressions on ARM* systems affecting the
