@@ -14,7 +14,7 @@ Homepage: https://www.gnu.org/software/mtools/
 Vcs-Git: https://salsa.debian.org/lamby/pkg-mtools.git
 Vcs-Browser: https://salsa.debian.org/lamby/pkg-mtools
 Rules-Requires-Root: no
-XS-Pexip-Upstream: http://deb.debian.org/debian/ bookworm
+XS-Pexip-Upstream: http://deb.debian.org/debian/ trixie
 
 Package: floppyd
 Architecture: any
