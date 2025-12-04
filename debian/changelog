@@ -1,3 +1,9 @@
+mtools (4.0.48-1+pexip25u2) pexip-trixie; urgency=medium
+
+  * Trixie build for product distribution
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 04 Dec 2025 13:42:05 +0000
+
 mtools (4.0.48-1+pexip25u1) pexip-trixie; urgency=medium
 
   * Initial trixie build
